@@ -57,9 +57,8 @@ __starts with ! (exclamation mark)__
 ✯ For Support 🆘 **[TamilSupport](https://t.me/TamilSupport)**"""
 
 USERBOT_REPO = f"""{emoji.ROBOT} Tamil Voice Chat UserBot
-
-» Repository: [GitHub](https://github.com/tamilbots/tamilvcbot)
-» Provided by [TamilBots](https://t.me/TamilBots)
+» Repository: **[GitHub](https://github.com/tamilbots/tamilvcbot)**
+» Provided by **[TamilBots](https://t.me/TamilBots)**
 » License: AGPL-3.0-or-later"""
 
 
