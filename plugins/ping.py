@@ -38,6 +38,9 @@ async def _human_time_duration(seconds):
                          .format(amount, unit, "" if amount == 1 else "s"))
     return ', '.join(parts)
 
+start = time()
+delta_ping = time() - start
+
 PING_MSG = f"""🏋🏻 ping🤸🏻‍♀️: `{delta_ping * 1000:.3f} ms`
 ✯provided by 🤖[TamilBots](https://t.me/tamilbots)
 ✯For Support 🆘[TamilSupport](https://t.me/TamilSupport)"""
