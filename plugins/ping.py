@@ -38,6 +38,10 @@ async def _human_time_duration(seconds):
                          .format(amount, unit, "" if amount == 1 else "s"))
     return ', '.join(parts)
 
+PING_MSG = f"🏋🏻 ping🤸🏻‍♀️: `{delta_ping * 1000:.3f} ms`\n"
+           f"✯provided by 🤖[TamilBots](https://t.me/tamilbots)\n"
+
+           f"✯For Support 🆘[TamilSupport](https://t.me/TamilSupport)\n"
 
 @Client.on_message(filters.text
                    & self_or_contact_filter
@@ -50,10 +54,9 @@ async def ping_pong(_, m: Message):
     m_reply = await m.reply_text("...")
     delta_ping = time() - start
     await m_reply.edit_text(
-        f"""🏋🏻 ping🤸🏻‍♀️: `{delta_ping * 1000:.3f} ms`\n
-         ✯provided by 🤖[TamilBots](https://t.me/tamilbots)\n
-
-         ✯For Support 🆘[TamilSupport](https://t.me/TamilSupport)\n"""
+        PING_MSG,
+        disable_web_page_preview=True,
+        quote=False
     )
 
 
