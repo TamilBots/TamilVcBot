@@ -53,7 +53,7 @@ async def ping_pong(_, m: Message):
         f"🏋🏻 ping🤸🏻‍♀️: `{delta_ping * 1000:.3f} ms`\n"
         f"✯provided by 🤖[TamilBots](https://t.me/tamilbots)`\n"
 
-        f"✯For Support 🆘[TamilSupport](https://t.me/TamilSupport)`"
+        f"✯For Support 🆘[TamilSupport](https://t.me/TamilSupport)`\n"
     )
 
 
