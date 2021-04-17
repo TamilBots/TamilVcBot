@@ -7,6 +7,27 @@ A Telegram UserBot to Play music 🎶 in Voice Chats.
 It's recommended to use an USA number.(if your real number is suspended I'm not responsible.use at your own risks) no grauanty no waranty
 Use at your own risks..
 
+## Give your 💙
+
+Before clicking on deploy to heroku just click on fork and star just below
+
+<p align="center">
+  <a href="https://github.com/tamilbots/tamilvcbot/fork">
+    <img src="https://img.shields.io/github/forks/tamilbots/tamilvcbot?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/tamilbots/tamilvcbot">
+    <img src="https://img.shields.io/github/stars/tamilbots/tamilvcbot?style=social">
+  </a>
+</p>
+
+## How to deploy 
+
+Click the below button to watch the video tutorial on deploying
+
+<a href="https://youtu.be/fqhCz-eRkgA"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/fqhCz-eRkgA"><img src="https://img.shields.io/youtube/views/fqhCz-eRkgA?style=social">
+
 <b> Deploy to Heroku </b>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAMILBOTS/TAMILVCBOT)
