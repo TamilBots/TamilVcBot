@@ -95,4 +95,3 @@ Choose one of the two methods and run the userbot with
 `python userbot.py`, stop with <kbd>CTRL+c</kbd>. The following example
 assume that you were going to use `vc.player` and `ping` plugin, replace
 `api_id`, `api_hash` to your own value.
-
