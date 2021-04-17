@@ -231,7 +231,12 @@ async def show_current_playing_time(client, m: Message):
 async def show_help(client, m: Message):
     if mp.msg.get('help') is not None:
         await mp.msg['help'].delete()
-    mp.msg['help'] = await m.reply_text(USERBOT_HELP, quote=False)
+    mp.msg['help'] = await m.reply_text(
+         USERBOT_HELP, 
+         disable_web_page_preview=True,
+         quote=False
+
+    )
     await m.delete()
 
 
