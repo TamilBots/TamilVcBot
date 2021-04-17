@@ -53,8 +53,8 @@ __starts with ! (exclamation mark)__
 ✯ `!mute`  mute the VC userbot
 ✯ `!unmute`  unmute the VC userbot
 
-✯ provided by 🤖`[TamilBots](https://t.me/tamilbots)
-✯ For Support 🆘`[TamilSupport](https://t.me/TamilSupport)
+✯ provided by 🤖[TamilBots](https://t.me/tamilbots)
+✯ For Support 🆘[TamilSupport](https://t.me/TamilSupport)
 """
 
 USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat UserBot**
