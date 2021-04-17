@@ -51,9 +51,9 @@ async def ping_pong(_, m: Message):
     delta_ping = time() - start
     await m_reply.edit_text(
         f"🏋🏻 ping🤸🏻‍♀️: `{delta_ping * 1000:.3f} ms`\n"
-        f"✯provided by 🤖[TamilBots](https://t.me/tamilbots)`\n"
+        f"✯provided by 🤖`[TamilBots](https://t.me/tamilbots)`\n"
 
-        f"✯For Support 🆘[TamilSupport](https://t.me/TamilSupport)`\n"
+        f"✯For Support 🆘`[TamilSupport](https://t.me/TamilSupport)`\n"
     )
 
 
