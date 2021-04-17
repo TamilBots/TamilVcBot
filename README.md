@@ -37,9 +37,9 @@ Click the below button to watch the video tutorial on deploying
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAMILBOTS/TAMILVCBOT)
 
-•• Enable the worker after deploy the project to Heroku\n
-•• send `!ping`, `!uptime`, or `!sysinfo` from userbot account itself or its contacts to check if the userbot is running or not.\n
-•• Send `!join` to a voice chat enabled group chat from userbot account itself or its contacts.\n
+-• Enable the worker after deploy the project to Heroku
+-• send `!ping`, `!uptime`, or `!sysinfo` from userbot account itself or its contacts to check if the userbot is running or not.
+•• Send `!join` to a voice chat enabled group chat from userbot account itself or its contacts.
 
 
  
