@@ -41,25 +41,25 @@ __starts with / (slash) or ! (exclamation mark)__
 __available to userbot account itself and its contacts__
 __starts with ! (exclamation mark)__
 
-✯ `!skip` [n] ...  skip current or n where n >= 2
-✯ `!join`  join voice chat of current group
-✯ `!leave`  leave current voice chat
-✯ `!vc`  check which VC is joined
-✯ `!stop`  stop playing
-✯ `!replay`  play from the beginning
-✯ `!clean`  remove unused RAW PCM files
-✯ `!pause` pause playing
-✯ `!resume` resume playing
-✯ `!mute`  mute the VC userbot
-✯ `!unmute`  unmute the VC userbot
+✯ `!skip` skip current playing song,
+✯ `!join`  join voice chat of current group,
+✯ `!leave`  leave current voice chat,
+✯ `!vc`  check which VC is joined,
+✯ `!stop`  stop playing,
+✯ `!replay`  play from the beginning,
+✯ `!clean`  remove unused RAW PCM files,
+✯ `!pause` pause playing,
+✯ `!resume` resume playing,
+✯ `!mute`  mute the VC userbot,
+✯ `!unmute`  unmute the VC userbot.
 
-✯ provided by 🤖[TamilBots](https://t.me/tamilbots)
+✯ provided by 🤖[TamilBots](https://t.me/TamilBots)
 ✯ For Support 🆘[TamilSupport](https://t.me/TamilSupport)
 """
 
 USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat UserBot**
 
-🤖Click👉🏻 [TamilBots](https://github.com/TamilBots) to open voice-chat Userbot repo"""
+🤖Click👉🏻 [TamilBots](https://github.com/TamilBots/TamilVcBot) to open voice-chat Userbot repo"""
 
 
 # - Pyrogram filters
