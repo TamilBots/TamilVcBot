@@ -38,10 +38,9 @@ async def _human_time_duration(seconds):
                          .format(amount, unit, "" if amount == 1 else "s"))
     return ', '.join(parts)
 
-PING_MSG = f"🏋🏻 ping🤸🏻‍♀️: `{delta_ping * 1000:.3f} ms`\n"
-           f"✯provided by 🤖[TamilBots](https://t.me/tamilbots)\n"
-
-           f"✯For Support 🆘[TamilSupport](https://t.me/TamilSupport)\n"
+PING_MSG = f"""🏋🏻 ping🤸🏻‍♀️: `{delta_ping * 1000:.3f} ms`
+✯provided by 🤖[TamilBots](https://t.me/tamilbots)
+✯For Support 🆘[TamilSupport](https://t.me/TamilSupport)"""
 
 @Client.on_message(filters.text
                    & self_or_contact_filter
