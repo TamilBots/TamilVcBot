@@ -1,6 +1,5 @@
 # Tamil Voicechat UserBot
 
-••
 
 A Telegram UserBot to Play music 🎶 in Voice Chats.
 
@@ -38,20 +37,20 @@ Click the below button to watch the video tutorial on deploying
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TAMILBOTS/TAMILVCBOT)
 
-•• Enable the worker after deploy the project to Heroku
-•• send `!ping`, `!uptime`, or `!sysinfo` from userbot account itself or its contacts to check if the userbot is running or not.
-•• Send `!join` to a voice chat enabled group chat from userbot account itself or its contacts.
+•• Enable the worker after deploy the project to Heroku\n
+•• send `!ping`, `!uptime`, or `!sysinfo` from userbot account itself or its contacts to check if the userbot is running or not.\n
+•• Send `!join` to a voice chat enabled group chat from userbot account itself or its contacts.\n
 
 
  
 **Features**
 
--- Playlist, queue
--- Loop one track when there is only one track in the playlist
--- Automatically downloads audio for the first two tracks in the playlist
+•• Playlist, queue\n
+•• Loop one track when there is only one track in the playlist\n
+•• Automatically downloads audio for the first two tracks in the playlist\n
   to ensure smooth playing
--- Automatically pin the current playing track
--- Show current playing position of the audio
+•• Automatically pin the current playing track
+- - Show current playing position of the audio
 
 **How to Use the Player plugin**
 
