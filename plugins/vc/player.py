@@ -53,13 +53,14 @@ __starts with ! (exclamation mark)__
 ✯ `!mute`  mute the VC userbot,
 ✯ `!unmute`  unmute the VC userbot.
 
-✯ provided by 🤖[TamilBots](https://t.me/TamilBots)
-✯ For Support 🆘[TamilSupport](https://t.me/TamilSupport)
-"""
+✯ provided by 🤖"[TamilBots](https://t.me/TamilBots)
+✯ For Support 🆘"[TamilSupport](https://t.me/TamilSupport)"""
 
-USERBOT_REPO = f"""{emoji.ROBOT} **Telegram Voice Chat UserBot**
+USERBOT_REPO = f"""{emoji.ROBOT} Telegram Voice Chat UserBot
 
-🤖Click👉🏻 [TamilBots](https://github.com/TamilBots/TamilVcBot) to open voice-chat Userbot repo"""
+» Repository: [GitHub](https://github.com/tamilbots/tamilbcbot)
+» Provided by [TamilBots](https://t.me/TamilBots)
+» License: AGPL-3.0-or-later"""
 
 
 # - Pyrogram filters
