@@ -56,7 +56,7 @@ __starts with ! (exclamation mark)__
 ✯ provided by 🤖 [TamilBots](https://t.me/TamilBots)
 ✯ For Support 🆘 [TamilSupport](https://t.me/TamilSupport)"""
 
-USERBOT_REPO = f"""{emoji.ROBOT} Telegram Voice Chat UserBot
+USERBOT_REPO = f"""{emoji.ROBOT} Tamil Voice Chat UserBot
 
 » Repository: [GitHub](https://github.com/tamilbots/tamilvcbot)
 » Provided by [TamilBots](https://t.me/TamilBots)
