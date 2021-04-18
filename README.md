@@ -81,7 +81,7 @@ to every member of the group. send `!help` to check more commands.
 
 | Admin Commands | Description                      |
 |----------------|----------------------------------|
-| !skip [n] ...  | skip current or n where n >= 2   |
+| !skip [n] ...  | skip current Song!               |
 | !join          | join voice chat of current group |
 | !leave         | leave current voice chat         |
 | !vc            | check which VC is joined         |
