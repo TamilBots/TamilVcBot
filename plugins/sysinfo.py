@@ -90,4 +90,4 @@ async def get_sysinfo(client, m):
     response += await generate_sysinfo(client.workdir)
     await m_reply.edit_text(response)
 
-    
+
