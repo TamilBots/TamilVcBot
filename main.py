@@ -2,9 +2,9 @@ from os import environ
 # import logging
 from pyrogram import Client, idle
 
-api_id = int(environ["API_ID"])
-api_hash = environ["API_HASH"]
-session_name = environ["SESSION_NAME"]
+API_ID = int(environ["API_ID"])
+API_HASH = environ["API_HASH"]
+SESSION_NAME = environ["SESSION_NAME"]
 
 plugins = dict(
     root="plugins",
@@ -15,7 +15,7 @@ plugins = dict(
     ]
 )
 
-app = Client(session_name, api_id, api_hash, plugins=plugins)
+app = Client(SESSION_NAME, API_ID, API_HASH, plugins=plugins)
 # logging.basicConfig(level=logging.INFO)
 app.start()
 print('>>> USERBOT STARTED by @TamilBots')
