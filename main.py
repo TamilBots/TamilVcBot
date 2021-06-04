@@ -18,8 +18,8 @@ plugins = dict(
 app = Client(SESSION_NAME, API_ID, API_HASH, plugins=plugins)
 # logging.basicConfig(level=logging.INFO)
 app.start()
-print('>>> USERBOT STARTED by @TamilBots')
+print('>>> USERBOT STARTED by @redchipvcbot')
 idle()
 app.stop()
-print('\n>>> USERBOT STOPPED by @TamilBots')
+print('\n>>> USERBOT STOPPED by @redchipvcbot')
 
